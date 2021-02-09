@@ -10,7 +10,7 @@ Ter todos os arquivos do repositório baixados no computador
 
 Execute o arquivo index.html e digite qualquer CPF, falso ou verdadeiro. O software dirá se é inválido ou se é válido!
 
-## 🛠️ Construído
+## 🛠️ Construído com
 
 * [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Linguagem utilizada
 
