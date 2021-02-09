@@ -1,6 +1,6 @@
 # validador de CPF
 
-Um aplicativo para validar CPF
+Um aplicativo para validar CPF e usar onde quiser!
 
 ### 📋 Pré-requisitos
 
