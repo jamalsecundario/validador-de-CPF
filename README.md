@@ -6,11 +6,11 @@ Um aplicativo para validar CPF
 
 Ter todos os arquivos do repositório baixados no computador
 
-## ⚙️ Executando os testes
+## ⚙️ Executando
 
 Execute o arquivo index.html e digite qualquer CPF, falso ou verdadeiro. O software dirá se é inválido ou se é válido!
 
-## 🛠️ Construído com
+## 🛠️ Construído
 
 * [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Linguagem utilizada
 
